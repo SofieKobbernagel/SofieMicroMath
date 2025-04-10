@@ -22,7 +22,7 @@ namespace SofieMicroMath
 
         public int Add3numbers(int t1, int t2, int t3)
         {
-            return t1 + t2 + t3;
+            return t1 + t2 + t3; //commentar fra online
         }
     }
 }
